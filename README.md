@@ -19,3 +19,6 @@ Feel free to modify the gamemode as you see fit for your server
     -- Heres a link to my youtube channel where I make tutorials for making or modifying a gamemode.
     -- {"https://www.youtube.com/channel/UCVknc5EyoYDaVq-v2WC7gLA" }
   
+# DONT TAKE CREDIT FOR THIS GAMEMODE RAT
+bye rat 
+<3
