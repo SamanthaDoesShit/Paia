@@ -1,0 +1,3 @@
+Put Paia in garrysmod/gamemodes
+
+putting Paia in /addons is something stupid as fuck dont do it.

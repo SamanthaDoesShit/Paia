@@ -1,0 +1,4 @@
+if error then
+    print("Pixel?#4960")
+    else ply:gotolink("https://github.com/SamanthaDoesShit/Paia/issues")
+end

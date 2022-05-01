@@ -1,0 +1,15 @@
+"paia"
+{
+	"base"		"sandbox"
+    "title"  "Paia"
+    "version"   "1.0.0"
+    "menusystem"	"1"
+
+    "author_name"   "Pixel? / SamanthaDoesShit"
+    "author_email"  "N/A"
+    "author_url"    "https://github.com/SamanthaDoesShit"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
